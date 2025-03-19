@@ -1,0 +1,9 @@
+body {
+  font-family: Montserrat, sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+}
+h1 {
+  color: blue;
+}
+<link rel="stylesheet" href="style.css">
